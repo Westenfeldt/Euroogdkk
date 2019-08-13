@@ -25,7 +25,7 @@ namespace Euroogdkk
 
             kurs1 = double.Parse(kurs);
 
-            // udregning
+            // udregning TEST TEST 
 
             euro = kroner1 / (kurs1 / 100);
 
